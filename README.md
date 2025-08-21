@@ -27,6 +27,9 @@ to withdraw money,deposit.
 
 <img width="1126" height="1088" alt="image" src="https://github.com/user-attachments/assets/5df99dfd-121a-4b08-9c96-b3f3bf2773b8" />
 
+# PACKAGE DIAGRAM 
+
+<img width="1117" height="985" alt="image" src="https://github.com/user-attachments/assets/cf444133-d73e-4249-b37b-c5e8fd3ebebd" />
 
 # COMMUNICATION DIAGRAM:
 
