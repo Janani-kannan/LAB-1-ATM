@@ -30,8 +30,7 @@ to withdraw money,deposit.
 
 # COMMUNICATION DIAGRAM:
 
-<img width="977" height="777" alt="image" src="https://github.com/user-attachments/assets/9f0946d5-6815-40fe-a063-9e1be07a8310" />
-
+<img width="1085" height="987" alt="image" src="https://github.com/user-attachments/assets/044590a6-8c23-42bd-89fc-b24649ee9f21" />
 
 
 
