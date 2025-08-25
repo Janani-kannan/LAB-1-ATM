@@ -25,7 +25,7 @@ to withdraw money,deposit.
 
 # ACTIVITY DIAGRAM:
 
-<img width="1126" height="1088" alt="image" src="https://github.com/user-attachments/assets/5df99dfd-121a-4b08-9c96-b3f3bf2773b8" />
+<img width="1095" height="1087" alt="image" src="https://github.com/user-attachments/assets/6fe47685-26b7-42e8-8ec0-52f30d49d3fd" />
 
 # PACKAGE DIAGRAM 
 
